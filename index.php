@@ -10,7 +10,7 @@
 <!-- Need to make more modern (of course) -->
 <body>
   <div class="titlebar">
-    <span class="Title">ksucp</span><span class="subtitle"> | Kent State University Competitive Programming Club</span>
+    <span class="title">ksucp</span><span class="subtitle"> | Kent State University Competitive Programming Club</span>
   </div>
   <!-- Still working on submission form -->
   <div class = "questionbox">
