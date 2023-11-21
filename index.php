@@ -14,8 +14,10 @@
   </div>
   <!-- Still working on submission form -->
   <div class = "questionbox">
-    <form action="index.php" method="post">
-      University E-mail: <input type="text" name="email" autocomplete="off" placeholder="University E-mail"><br>
+    <form action="process_form.php" method="post">
+      <label for="email">University Email: </label>
+      <input type="email" name="email" autocomplete="off" placeholder="" required>
+      <br>
       <input id="submission" type="submit">
     </form>
   </div>
