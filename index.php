@@ -16,7 +16,7 @@
   <div class = "questionbox">
     <form action="process_form.php" method="post">
       <label for="email">University Email: </label>
-      <input type="email" name="email" autocomplete="off" placeholder="" required>
+      <input id="name" type="email" name="email" autocomplete="off" placeholder="" required>
       <br>
       <input id="submission" type="submit">
     </form>
