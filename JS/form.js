@@ -1,6 +1,12 @@
+
+class form {
+}
 jQuery(document).ready(($)=>{
-  $(".title").text("Ksucp");
-  $(".title").click(()=>{
-    alert("Works");
-  });
+  
+
+  //hide all pages but page_1
+  $('form_page').css("display","none");
+  $(".page_1").css("display","block");
+
 });
+
