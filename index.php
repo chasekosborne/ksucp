@@ -23,32 +23,32 @@
         <span class="next-btn" type="next">Next</span>
       </div>
 
-      <div class="form_page page_2" data-page_var="1" id="page_2_1">
+      <div class="form_page page_2" data-page_num="2" data-page_var="1" id="page_2_1">
         <h2>Page 2.1</h2>
         <span class="next-btn" type="next">Next</span>
       </div>
 
-      <div class="form_page page_2" data-page_var="2" id="page_2_2">
+      <div class="form_page page_2" data-page_num="2" data-page_var="2" id="page_2_2">
       <h2>Page 2.2</h2>
         <span class="next-btn" type="next">Next</span>
       </div>
 
-      <div class="form_page page_3" data-page_var="1" id="page_3_1">
+      <div class="form_page page_3" data-page_num="3" data-page_var="1" id="page_3_1">
       <h2>Page 3</h2>
         <span class="next-btn" type="next">Next</span>
       </div>
 
-      <div class="form_page page_4" data-page_var="1" id="page_4_1">
+      <div class="form_page page_4" data-page_num="4" data-page_var="1" id="page_4_1">
       <h2>Page 4</h2>
         <span class="next-btn" type="next">Next</span>
       </div>
 
-      <div class="form_page page_4" data-page_var="2" id="page_4_2">
+      <div class="form_page page_4" data-page_num="4" data-page_var="2" id="page_4_2">
       <h2>Page 5</h2>
         <span class="next-btn" type="next">Next</span>
       </div>
 
-      <div class="form_page page_5" data-page_var="1" id="page_5_1">
+      <div class="form_page page_5" data-page_num="5" data-page_var="1" id="page_5_1">
       <h2>Page 6</h2>
         <input id="submission" id="submission" type="submit">
       </div>
